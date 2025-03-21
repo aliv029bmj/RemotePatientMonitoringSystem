@@ -1,6 +1,5 @@
 # Remote Patient Monitoring System 🩺
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Remote+Patient+Monitoring+System)  
 *A modern solution for remote patient monitoring*
 
 ---
