@@ -110,15 +110,6 @@ Follow the steps below to set up and run the project on your local machine.
 
 ---
 
-## 📊 Screenshots
-
-- **Patient Panel**
-- **Fitbit Data**
-
-(Note: Replace the placeholder images with actual screenshots of your project.)
-
----
-
 ## 🧪 Testing
 
 - **Backend Testing:** Use tools like **Postman** to test the API endpoints (e.g., `GET /api/health-data/{patientId}`, `POST /api/health-data/simulate/{patientId}`).
@@ -158,8 +149,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ## 📧 Contact
 
-- **Email:** your-email@example.com  
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** alinovruz29@example.com  
+- **GitHub:** [your-username](https://github.com/aliv029bmj)
 
 ---
 
