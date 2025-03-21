@@ -1,4 +1,3 @@
-<pre><code>
 # Remote Patient Monitoring System 🩺
 
 ![Project Banner](https://via.placeholder.com/1200x300.png?text=Remote+Patient+Monitoring+System)  
@@ -173,4 +172,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ---
 
 ⭐ If you like this project, please give it a star!
-</code></pre>
