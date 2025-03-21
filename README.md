@@ -148,8 +148,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ## 📧 Contact
 
-- **Email:** alinovruz29@example.com  
-- **GitHub:** [your-username](https://github.com/aliv029bmj)
+- **Email:** alinovruz29@gmail.com  
+- **GitHub:** [Ali Novruz](https://github.com/aliv029bmj)
 
 ---
 
